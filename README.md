@@ -1,8 +1,8 @@
 # Test GitHub Templates
 
-## GitHub testing.
+## GitHub testing
 
-How does _[GitHub](https://github.com/)_ work
+How does _[GitHub](https://github.com/)_ work.
 
 **Default brunch names**:
 <br>
