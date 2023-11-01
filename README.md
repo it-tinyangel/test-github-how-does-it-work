@@ -1,6 +1,6 @@
 # Test GitHub Templates
 
-##GitHub testing.
+## GitHub testing.
 
 How does _[GitHub](https://github.com/)_ work
 
