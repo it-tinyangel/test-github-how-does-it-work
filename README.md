@@ -4,7 +4,7 @@
 
 ## GitHub testing
 
-#### How does*<code>[GitHub](https://github.com/)</code>*work.
+#### How does`*[GitHub](https://github.com/)*`work.
 
 <p>**<strong>Default</strong> brunch names**:</p>
 <br>
