@@ -1,6 +1,9 @@
-# Test GitHub
+# GitHub
+---
+![GitHub](https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg)
+---
 
-## GitHub ![GitHub](https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg) testing
+## GitHub testing
 
 ### How does *[GitHub](https://github.com/)* work.
 
