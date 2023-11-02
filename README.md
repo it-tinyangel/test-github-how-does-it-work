@@ -4,7 +4,7 @@
 
 ## GitHub testing
 
-#### How does `[GitHub](https://github.com/)` work
+#### How does *[GitHub](https://github.com/)* work
 
 ***<strong>Default</strong>*** ***`brunch`*** ***names***:
 <br>
