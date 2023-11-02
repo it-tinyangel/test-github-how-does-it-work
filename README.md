@@ -1,12 +1,8 @@
 # Test GitHub
 
-## GitHub testing
+## GitHub ![GitHub](https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg) testing
 
-### Templates
-
-![GitHub](https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg)
-
-How does *[GitHub](https://github.com/)* work.
+### How does *[GitHub](https://github.com/)* work.
 
 **Default brunch names**:
 <br>
