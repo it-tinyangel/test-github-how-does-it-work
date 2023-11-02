@@ -6,7 +6,7 @@
 
 #### How does *<code>[GitHub](https://github.com/)</code>* work.
 
-<p>**<strong>Default</strong> brunch names**:</p>
+**<strong>Default</strong> brunch names**:
 <br>
 -**main**—*the main branch where the stable version of the product is stored*;
 - **develop** — *a branch for developing new functions and fixing errors (place of active changes)*;
