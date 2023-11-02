@@ -4,9 +4,9 @@
 
 ## GitHub testing
 
-### How does *[GitHub](https://github.com/)* work.
+#### How does *<code>[GitHub](https://github.com/)</code>* work.
 
-**Default brunch names**:
+<p>** ***Default*** brunch names**:</p>
 <br>
 - **main** — *the main branch where the stable version of the product is stored*;
 - **develop** — *a branch for developing new functions and fixing errors (place of active changes)*;
