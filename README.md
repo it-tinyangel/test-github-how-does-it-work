@@ -2,9 +2,9 @@
 
 ![GitHub](https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg)
 
-## `GitHub` testing
+## GitHub testing
 
-#### How does <code>[GitHub](https://github.com/)</code> work
+#### How does `[GitHub](https://github.com/)` work
 
 ***<strong>Default</strong>*** ***`brunch`*** ***names***:
 <br>
