@@ -4,7 +4,7 @@
 
 ## <code>[GitHub](https://github.com/)</code> testing
 
-#### How does *<code>[GitHub](https://github.com/)</code>* work.
+#### How does *`GitHub`* work.
 
 ***<strong>Default</strong>*** **brunch names**:
 <br>
