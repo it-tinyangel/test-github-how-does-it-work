@@ -2,7 +2,7 @@
 
 ![GitHub](https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg)
 
-## GitHub testing 🚀
+## GitHub testing :rocket:
 
 #### How does ***[GitHub](https://github.com/)*** work
 
