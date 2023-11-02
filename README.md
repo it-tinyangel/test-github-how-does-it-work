@@ -4,10 +4,10 @@
 
 ## GitHub testing
 
-#### How does *<code>[GitHub](https://github.com/)</code>* work.
+#### How does <code>[GitHub](https://github.com/)</code> work.
 
-<p>** ***Default*** brunch names**:</p>
+<p>** <strong>Default</strong> brunch names**:</p>
 <br>
-- **main** — *the main branch where the stable version of the product is stored*;
+-**main**—*the main branch where the stable version of the product is stored*;
 - **develop** — *a branch for developing new functions and fixing errors (place of active changes)*;
 - **feature/name-functions** — *a branch for the development of specific functions or features*.
