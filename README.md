@@ -1,16 +1,22 @@
 # GitHub
 
-![GitHub](https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg)
+![GitHub][logo]
+
+[logo]: https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg "logo GitHub"
 
 ## GitHub testing :rocket:
 
 #### How does ***[GitHub](https://github.com/)*** work
+
+> Basic recommendation for learning how work it do experiment and discover. You'll soon learn to get what you want.
 
 ***<strong>Default</strong>*** **brunch names**:
 
 - **main** — the main branch where the stable version of the product is stored;
 - **develop** — a branch for developing new functions and fixing errors (place of active changes);
 - **feature/name-functions** — a branch for the development of specific functions or features.
+
+---
 
 Some basic Git commands are:
 ```
@@ -19,15 +25,36 @@ git add
 git commit
 ```
 
-> Text that is a quote
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+---
+
+Strikethrough out text. ~~Scratch worlds.~~
+
+---
 
 Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].
+A footnote can also have multiple lines[^2].  
+
+Also use words, to fit your writing style more closely[^note].
 
 [^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
+
+---
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
