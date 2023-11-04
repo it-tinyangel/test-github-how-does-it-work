@@ -8,7 +8,7 @@
 
 #### How does ***[GitHub](https://github.com/)*** work
 
-> Basic recommendation for learning how work it do, experiment and discover. You'll soon learn to get what you want. :muscle: :sunglasses:
+> Basic recommendation for learning how work it do, experiment and discover. You'll soon learn to get what you want. :muscle: :sunglasses: :sunglasses:
 
 ***<strong>Default</strong>*** **brunch names**:
 
@@ -39,7 +39,7 @@ print s
 
 Strikethrough out text. ~~Scratch worlds.~~
 
----
+***
 
 Here is a simple footnote[^1].
 
@@ -54,7 +54,7 @@ Also use words, to fit your writing style more closely[^note].
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
----
+___
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
