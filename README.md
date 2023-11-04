@@ -8,7 +8,7 @@
 
 #### How does ***[GitHub](https://github.com/)*** work
 
-> Basic recommendation for learning how work it do experiment and discover. You'll soon learn to get what you want. :muscle: :sunglasses:
+> Basic recommendation for learning how work it do, experiment and discover. You'll soon learn to get what you want. :muscle: :sunglasses:
 
 ***<strong>Default</strong>*** **brunch names**:
 
