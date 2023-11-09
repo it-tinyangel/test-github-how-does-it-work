@@ -82,9 +82,9 @@ ___
 
 *Example task lists*:
 
-- [x] #1
-- [ ] #2
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] #1 task
+- [ ] #2 task
+- [ ] #3 task: add delight to the experience when all tasks are complete :tada:
 
 ___
 
