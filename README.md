@@ -80,7 +80,7 @@ Showing math inline:  $\sqrt{3x-1}+(1+x)^2$
 
 ___
 
-*My task lists*:
+*Example task lists*:
 
 - [x] #1
 - [ ] #2
