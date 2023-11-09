@@ -1,6 +1,7 @@
 # GitHub
 
 <!-- This content will not appear in the rendered Markdown -->
+<!-- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams -->
 
 ![GitHub][logo]
 
@@ -20,7 +21,8 @@
 
 ---
 
-Some basic Git commands are:
+Syntax highlighting in fenced code block:
+
 ```
 git status
 git add
@@ -66,4 +68,39 @@ ___
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
+
+___
+
+**The Cauchy-Schwarz Inequality**
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+___
+
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
+___
+
+*My task lists*:
+
+- [x] #1
+- [ ] #2
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
+___
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
