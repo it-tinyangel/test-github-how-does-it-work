@@ -80,7 +80,7 @@ Showing math inline:  $\sqrt{3x-1}+(1+x)^2$
 
 ___
 
-*Example task lists*:
+*Task list example*:
 
 - [x] #1 task
 - [ ] #2 task
@@ -90,13 +90,13 @@ ___
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Collapsed section</summary>
 
-### You can add a header
+### Header
 
-You can add text within a collapsed section. 
+Text within a collapsed section. 
 
-You can add an image or a code block, too.
+Image or a code block.
 
 ```ruby
    puts "Hello World"
