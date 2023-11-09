@@ -1,5 +1,7 @@
 # GitHub
 
+<!-- This content will not appear in the rendered Markdown -->
+
 ![GitHub][logo]
 
 [logo]: https://visualmodo.com/wp-content/uploads/2018/04/Using-GitHub-To-Improve-Workflow-3.jpg "logo GitHub"
