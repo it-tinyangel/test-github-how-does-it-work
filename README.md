@@ -104,3 +104,8 @@ Image or a code block.
 
 </details>
 
+___
+
+#### License
+
+The source code is distributed under the `MIT` License. Detailed information about the license can be found in the file [LICENSE.md](https://github.com/it-tinyangel/test-github-how-does-it-work/blob/main/LICENSE.md).
